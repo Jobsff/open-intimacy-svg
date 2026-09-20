@@ -1,0 +1,24 @@
+{
+  "categories": [
+    {
+      "id": "foundation",
+      "name": "Foundation",
+      "description": "Basic human posture and body awareness"
+    },
+    {
+      "id": "communication",
+      "name": "Communication",
+      "description": "Relationship interaction and expression"
+    },
+    {
+      "id": "comfort",
+      "name": "Comfort",
+      "description": "Postures focused on relaxation and adaptability"
+    },
+    {
+      "id": "exploration",
+      "name": "Exploration",
+      "description": "Advanced posture variations"
+    }
+  ]
+}
