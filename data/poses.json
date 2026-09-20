@@ -1,0 +1,15 @@
+[
+  {
+    "id": "pose_001",
+    "name": "basic_standing",
+    "category": "foundation",
+    "view": ["front", "side"],
+    "tags": ["beginner", "body-awareness"],
+    "male": {
+      "joints": {}
+    },
+    "female": {
+      "joints": {}
+    }
+  }
+]
