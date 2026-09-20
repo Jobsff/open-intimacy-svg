@@ -1,0 +1,27 @@
+{
+  "version": "0.1",
+  "description": "Basic joint based human model schema",
+  "joints": {
+    "head": {"type":"circle"},
+    "neck": {},
+    "shoulder_left": {},
+    "shoulder_right": {},
+    "elbow_left": {},
+    "elbow_right": {},
+    "wrist_left": {},
+    "wrist_right": {},
+    "spine": {},
+    "pelvis": {},
+    "hip_left": {},
+    "hip_right": {},
+    "knee_left": {},
+    "knee_right": {},
+    "ankle_left": {},
+    "ankle_right": {}
+  },
+  "render": {
+    "maleColor":"#4A90E2",
+    "femaleColor":"#E96B9A",
+    "style":"safety-instruction-vector"
+  }
+}
