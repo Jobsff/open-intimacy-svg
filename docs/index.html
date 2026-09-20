@@ -9,10 +9,12 @@
 <body>
 <header><h1>Open Human SVG Library</h1><p>Human Model System · Pose Library · SVG Engine</p></header>
 <main>
-<section><h2>Human Library</h2><div class="grid"><div class="card"><h3>Male Front</h3><div class="avatar">♂</div></div><div class="card"><h3>Female Front</h3><div class="avatar">♀</div></div><div class="card"><h3>Male Side</h3><div class="avatar">◐</div></div><div class="card"><h3>Female Side</h3><div class="avatar">◑</div></div></div></section>
+<section><h2>Human Library</h2><div class="grid"><div class="card"><h3>Male Front</h3><div class="avatar">♂</div></div><div class="card"><h3>Female Front</h3><div class="avatar">♀</div></div></div></section>
 <section><h2>Pose Library</h2><div id="poses" class="grid"></div></section>
-<section><h2>SVG Editor</h2><p>Data driven pose editing and SVG export foundation.</p></section>
+<section><h2>SVG Viewer</h2><div id="viewer"></div><button id="download">Download SVG</button></section>
 </main>
+<script src="../engine/svg-renderer.js"></script>
+<script src="../engine/pose-loader.js"></script>
 <script src="app.js"></script>
 </body>
 </html>
