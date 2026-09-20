@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 240 520">
+<!-- Female side view: safety instruction style -->
+<g fill="none" stroke="#E96B9A" stroke-width="18" stroke-linecap="round" stroke-linejoin="round">
+ <circle cx="120" cy="55" r="38" fill="#E96B9A" stroke="none"/>
+ <path d="M120 95 Q145 150 125 230"/>
+ <path d="M125 135 Q165 150 175 215"/>
+ <!-- simplified torso/chest marker -->
+ <circle cx="145" cy="145" r="12"/>
+ <path d="M125 230 L80 390"/>
+ <path d="M125 230 L155 390"/>
+</g>
+<g fill="#E96B9A">
+ <circle cx="175" cy="215" r="10"/>
+ <circle cx="80" cy="390" r="10"/>
+ <circle cx="155" cy="390" r="10"/>
+</g>
+</svg>
