@@ -1,0 +1,23 @@
+{
+  "version": "0.1",
+  "description": "Human joint hierarchy for procedural SVG pose generation",
+  "nodes": {
+    "head": null,
+    "neck": "head",
+    "chest": "neck",
+    "waist": "chest",
+    "pelvis": "waist",
+    "left_shoulder": "chest",
+    "left_elbow": "left_shoulder",
+    "left_wrist": "left_elbow",
+    "right_shoulder": "chest",
+    "right_elbow": "right_shoulder",
+    "right_wrist": "right_elbow",
+    "left_hip": "pelvis",
+    "left_knee": "left_hip",
+    "left_ankle": "left_knee",
+    "right_hip": "pelvis",
+    "right_knee": "right_hip",
+    "right_ankle": "right_knee"
+  }
+}
