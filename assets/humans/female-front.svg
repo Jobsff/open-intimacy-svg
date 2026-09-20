@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 240 520">
+<!-- Female front view: safety instruction style -->
+<g fill="none" stroke="#E96B9A" stroke-width="18" stroke-linecap="round" stroke-linejoin="round">
+  <circle cx="120" cy="55" r="38" fill="#E96B9A" stroke="none"/>
+  <path d="M120 95 L120 230"/>
+  <!-- shoulder and torso silhouette -->
+  <path d="M80 130 Q120 110 160 130"/>
+  <!-- simplified chest contour marker for gender differentiation -->
+  <circle cx="105" cy="145" r="12"/>
+  <circle cx="135" cy="145" r="12"/>
+  <path d="M120 230 L75 390"/>
+  <path d="M120 230 L165 390"/>
+  <path d="M80 125 Q55 180 45 235"/>
+  <path d="M160 125 Q185 180 195 235"/>
+</g>
+<g fill="#E96B9A">
+ <circle cx="45" cy="235" r="10"/>
+ <circle cx="195" cy="235" r="10"/>
+ <circle cx="75" cy="390" r="10"/>
+ <circle cx="165" cy="390" r="10"/>
+</g>
+</svg>
