@@ -1,15 +1,7 @@
-[
-  {
-    "id": "pose_001",
-    "name": "basic_standing",
-    "category": "foundation",
-    "view": ["front", "side"],
-    "tags": ["beginner", "body-awareness"],
-    "male": {
-      "joints": {}
-    },
-    "female": {
-      "joints": {}
-    }
-  }
-]
+{
+  "poses": [
+    {"id":"pose_001","name":"basic_standing","category":"foundation","joints":{"head":0,"arm":0}},
+    {"id":"pose_002","name":"welcome","category":"communication","joints":{"head":0,"arm":35}},
+    {"id":"pose_003","name":"relaxed","category":"comfort","joints":{"head":0,"arm":15}}
+  ]
+}
